@@ -4,3 +4,6 @@
 .wrapDiv {
   padding: 10px;
 }
+.navbar {
+  border-radius: 0px !important;
+}
